@@ -1,0 +1,16 @@
+{
+  "name": "d3-gantt",
+  "description": "d3 gantt chart",
+  "license": "Apache License,",
+  "main": [
+    "gantt-chart-d3.js"
+  ],
+   "ignore": [
+    ".*",
+    "CHANGELOG.json",
+    "FAQ.md",
+    "job-tracker-parser.js",
+    "examples",
+    "lib"
+  ]
+}
